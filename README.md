@@ -1,6 +1,6 @@
 中文 | [English](./README.en-US.md)
 
-JeecgBoot AI低代码平台
+JeecgBoot AI低代码平台（For Test）
 ===============
 
 当前最新版本： 3.9.1（发布日期：2026-01-28） 
